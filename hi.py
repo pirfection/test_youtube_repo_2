@@ -1,4 +1,4 @@
 print('Helllo world')
 
 
-"""Similar test as commit 1"""
+"""Similar test amit 1"""
